@@ -9,7 +9,7 @@ Version modifiée du fichier `technologie-services-uno.s2e` pour l'import de l'e
 Lors de l'import de l'extension proposée par Technologie Services, une première erreur survient.
 Un "rezippage" manuel permet de résoudre ce problème (voir ci-dessous)
 
-#### 1. Problème à l'import
+#### 2. Problème à l'import
 
 Lors de l'import du zip corrigé, une seconde erreur survient, due au fichier `s2e` corrompu.
 
