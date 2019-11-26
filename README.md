@@ -1,4 +1,4 @@
-# Extension-mBlock_TS_1.3-debug-linux
+# Extension-mBlock_TS_1.3-linux
 
 Version modifiée du fichier `technologie-services-uno.s2e` pour l'import de l'extension Technologie Services sous mBlock v4.0.4 sous Ubuntu.
 
